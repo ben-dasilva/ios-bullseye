@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  BullsEye
 //
-//  Created by Ben da Silva on 12/28/16.
-//  Copyright © 2016 Ben da Silva. All rights reserved.
+//  Created by Ben  12/28/16.
+//  Copyright © 2016. All rights reserved.
 //
 
 import UIKit
